@@ -38,3 +38,5 @@
 ### 34. Exercise 7.34
 ### 35. Exercise 7.35
 ### 36. Exercise 7.36
+### 37. Soal No 1
+### 38. Soal No 2
